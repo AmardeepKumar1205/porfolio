@@ -1,0 +1,23 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "portfolio MEAN App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmardeepKumar1205/porfolio.git"
+  },
+  "keywords": [
+    "MEAN",
+    "App"
+  ],
+  "author": "amardeepkumar1205",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmardeepKumar1205/porfolio/issues"
+  },
+  "homepage": "https://github.com/AmardeepKumar1205/porfolio#readme"
+}
